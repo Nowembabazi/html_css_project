@@ -1,0 +1,18 @@
+ img{
+    height: 30%;
+    max-width: 30%;
+ }
+ h1{
+    color: darkslategray;
+    text-align: center;
+ }
+ #Mywelcome-section{
+    background-color: bisque;
+    text-align: center;
+ }
+ .center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 40%;
+ }
